@@ -75,11 +75,14 @@ button.hero-left-button {
 }
 
 .about-right button {
-    padding: 18px 33px;
+    padding: 24px 42px;
     color: white;
     border: none;
-    border-radius: 22px;
-    background: linear-gradient(269deg, #e21167, #ff9800);
+    border-radius: 32px;
+    background: linear-gradient(
+269deg
+, #e21167, #ff9800);
+    font-size: 20px;
 }
 /* recipie section */
 section#recipe {
